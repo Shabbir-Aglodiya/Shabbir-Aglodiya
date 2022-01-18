@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding And Football
 - 🌱 I’m currently learning ...C language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...shabburhasan2004@gmail.com
+- 📫 How to reach me ...shabbirhasan2004@gmail.com
 
 <!---
 Shabbir-Aglodiya/Shabbir-Aglodiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
